@@ -1,3 +1,4 @@
+```
 Coincidencias Basicas
 .       - Cualquier Caracter, excepto nueva linea
 \d      - Cualquier Digitos (0-9)
@@ -27,3 +28,4 @@ Conjuntos de Caracteres
 Grupos
 ( )     - Grupo
 |       - Uno u otro
+```
